@@ -27,4 +27,5 @@ FOUNDATION_EXPORT const unsigned char MMLanScanVersionString[];
     #import "if_arp.h"
     #import "if_ether.h"
     #import "route.h"
+    #import "MMDevice.h"
 #endif
