@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/Mike/Documents/Xcode/GitHub/MMLanScan/MMLanScanDemo.xcodeproj">
+      location = "self:MMLanScan.xcodeproj">
    </FileRef>
 </Workspace>
